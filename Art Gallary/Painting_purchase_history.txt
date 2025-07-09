@@ -1,0 +1,21 @@
+Method: Purchase at 01:54 AM, 28/05/2025
+- Steps (Gregg) - BDT7000.0 x 4 = BDT28000.0
+Total: BDT28000.0
+-----
+Method: Purchase at 01:55 AM, 28/05/2025
+- Marchs (Harris) - BDT5000.0 x 7 = BDT35000.0
+- Steps (Gregg) - BDT7000.0 x 1 = BDT7000.0
+Total: BDT42000.0
+-----
+Method: Purchase at 01:59 AM, 28/05/2025
+- Skies (lewis) - BDT4500.0 x 2 = BDT9000.0
+Total: BDT9000.0
+-----
+Method: Purchase at 02:34 AM, 28/05/2025
+- Hymns (Stacy) - BDT6000.0 x 1 = BDT6000.0
+Total: BDT6000.0
+-----
+Method: Purchase at 22:19 PM, 31/05/2025
+- Marchs (Harris) - BDT5000.0 x 6 = BDT30000.0
+Total: BDT30000.0
+-----
